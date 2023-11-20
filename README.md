@@ -18,7 +18,7 @@ Blockchain Memo DApp is a decentralized application (DApp) built on the Ethereum
 
 Follow these steps to run the project locally:
 
-1. Clone the repository: `git clone https://github.com/your-username/blockchain-memo-dapp.git`
+1. Clone the repository: 'git@github.com:mohamedaichaouiii/Blockchain_final.git'
 
 2. Install dependencies: `npm install`
 
